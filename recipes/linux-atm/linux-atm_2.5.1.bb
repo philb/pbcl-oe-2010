@@ -2,7 +2,7 @@ DESCRIPTION = "Drivers and tools to support ATM networking under Linux"
 HOMEPAGE = "http://linux-atm.sourceforge.net/"
 SECTION = "libs"
 PRIORITY = "optional"
-DEPENDS = "virtual/kernel"
+DEPENDS = "virtual/kernel flex"
 PR = "r1"
 LICENSE = "GPL LGPL"
 
